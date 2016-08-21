@@ -4,6 +4,13 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.1'
 gem 'simple_form'
 
+gem 'mini_magick', '~> 4.3.1'
+
+gem "figaro"
+gem "fog"
+
+gem 'carrierwave', '0.10.0'
+
 gem 'devise', '>= 3.2.4'
 
 gem 'bootstrap-sass', '~> 3.3.5.1'
