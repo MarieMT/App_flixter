@@ -11,6 +11,8 @@ gem "fog"
 
 gem 'carrierwave', '0.10.0'
 
+gem 'carrierwave-aws'
+
 gem 'devise', '>= 3.2.4'
 
 gem 'bootstrap-sass', '~> 3.3.5.1'
