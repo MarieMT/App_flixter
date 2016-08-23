@@ -4,6 +4,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.1'
 gem 'simple_form'
 
+gem 'stripe'
+
 gem 'mini_magick', '~> 4.3.1'
 
 gem "figaro"
