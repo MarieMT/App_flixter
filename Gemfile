@@ -6,6 +6,9 @@ gem 'simple_form'
 
 gem 'stripe'
 
+gem 'ranked-model'
+
+
 gem 'mini_magick', '~> 4.3.1'
 
 gem "figaro"
