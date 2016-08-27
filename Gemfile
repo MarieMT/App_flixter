@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.1'
 gem 'simple_form'
 
+gem 'jquery-ui-rails'
 gem 'stripe'
 
 gem 'ranked-model'
